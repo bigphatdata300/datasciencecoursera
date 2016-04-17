@@ -54,8 +54,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 7. Combine tidy train and test data using rbind() to get an overall tidy data set that meets objectives 1-4.
 8. Create a summary data set of means for each metric by subject and activity called "results"
 
-## Description of the variables in the results.txt file including a) number of ##rows and columns, b) name of each column, c) class of 
-## each column from the str() command in r
+## Description of the variables in the results.txt file including a) number of rows and columns, b) name of each column, c) class of each column.
 
 'data.frame':	180 obs. of  69 variables:
 
