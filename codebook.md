@@ -24,8 +24,7 @@ A description of the original study, data collection, and variable calculations 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## Notes on the original (raw) data. The raw data for this script can be sourced from the following files. The path assumes
-## that the files are in the working directory.
+## Notes on the original (raw) data. The raw data for this script can be sourced from the following files. The path assumes that the files are in the working directory.
 
 "./features.txt" - names of the 561 metrics from the original study
 
